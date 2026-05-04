@@ -1,4 +1,4 @@
-# 🪺 CryptNest v5.2
+# 🪺 CryptNest v6
 
 **Enterprise-grade secure cloud storage platform** with end-to-end encryption, advanced access control, and comprehensive audit trails.
 
